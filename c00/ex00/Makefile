@@ -4,7 +4,7 @@ cc = c++
 
 CFLAGS = -Wall -Wextra -Werror
 
-C2FLAGS = -Wall -Wextra -Werror -lc++ -std=c++98
+C2FLAGS = -lc++ -std=c++98
 
 SRC = megaphone.cpp
 
