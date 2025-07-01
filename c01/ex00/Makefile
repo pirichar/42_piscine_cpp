@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra -Werror
 
 C2FLAGS = -Wall -Wextra -Werror -lc++ -std=c++98
 
-SRC = main.cpp newZombie.cpp randomChump.cpp Zombie.Class.cpp
+SRC = main.cpp newZombie.cpp randomChump.cpp Zombie.cpp
 
 OBJ = $(SRC:.cpp=.o)
 
