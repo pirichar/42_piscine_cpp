@@ -1,5 +1,6 @@
 {
 	"files.associations": {
+		"*.js": "javascriptreact",
 		"__bit_reference": "cpp",
 		"__config": "cpp",
 		"__debug": "cpp",
@@ -65,6 +66,9 @@
 		"fstream": "cpp",
 		"iomanip": "cpp",
 		"stack": "cpp",
-		"__functional_03": "cpp"
+		"__functional_03": "cpp",
+		"__verbose_abort": "cpp",
+		"execution": "cpp",
+		"variant": "cpp"
 	}
 }

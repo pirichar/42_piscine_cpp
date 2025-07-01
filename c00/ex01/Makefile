@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra -Werror
 
 C2FLAGS = -Wall -Wextra -Werror -lc++ -std=c++98
 
-SRC = main.cpp Contact.Class.cpp Phonebook.Class.cpp
+SRC = main.cpp Contact.cpp PhoneBook.cpp
 
 OBJ = $(SRC:.cpp=.o)
 
